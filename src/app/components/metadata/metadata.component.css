@@ -1,0 +1,15 @@
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.app-container mat-card {
+    width: 100%;
+}
+.app-container mat-form-field  {
+    margin: 40px;
+  }
+
